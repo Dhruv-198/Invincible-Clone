@@ -1,0 +1,288 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+/* LAST-TEXT  */
+.navbar-brand img{
+    margin-left: -10px;
+}
+.l-txt p {
+  color: white;
+  padding-left: 130px;
+}
+#form-row {
+  width: 100%;
+  margin-left: 130px;
+}
+.sb-txt p,
+.sb-txt h4 {
+  color: white;
+  padding-left: 0px;
+}
+.mid-txt {
+  padding-left: 130px;
+}
+.year{
+    padding-left: 0px;
+}
+
+/* HIGHLIGHT-EVENT */
+.hl-evt {
+  padding-left: 130px;
+}
+#image-slider {
+  height: 500px;
+  padding-left: 130px;
+}
+#image-slider .carousel-inner img {
+  height: 420px;
+  width: 100%;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+#image-slider .carousel-item {
+  padding: 0 10px;
+}
+
+#image-slider .carousel-item .row {
+  margin: 0 -10px;
+}
+
+/************ Weekend-Event  ********/
+.we-prt img{
+  height: 200px;
+  width: 200px;
+}
+
+ /* Monsoon-Adventure  */
+
+ .Monsoon-ad img{
+  height: 200px;
+  width: 300px;
+ }
+
+/* SUMMER-EVENTS    */
+.hl-evt {
+  padding-left: 130px;
+}
+#image-slider-2 {
+  height: 300px;
+  padding-left: 130px;
+}
+#image-slider-2 .carousel-inner img {
+  height: 250px;
+  width: 100%;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+#image-slider .carousel-item {
+  padding: 0 10px;
+}
+
+#image-slider .carousel-item .row {
+  margin: 0 -10px;
+}
+
+/* SPECIAL-EVENTS */
+.spe-1 {
+  margin-top: 100px;
+}
+.spe-1 img {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.245);
+}
+
+/* EXPERIENCE YOUR-SELF */
+.Experience {
+  height: 45vh;
+  background-color: #f1f1f1;
+}
+#videos{
+  text-align: center;
+  padding-left: 110px;
+}
+#videos div> video{
+  height: 250px;
+  width: 350px;
+  object-fit: cover;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+/* WHY PEOPLE  */
+.wpli-ngo {
+  width: 100%;
+  padding-left: 130px;
+}
+.discription span a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #de5824;
+}
+#descrip {
+  width: 30%;
+}
+
+/* STORIES */
+#image-slider-3 {
+  height: 300px;
+  padding-left: 130px;
+}
+#image-slider-3 .carousel-inner img {
+  height: 200px;
+  width: 100%;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+#image-slider .carousel-item {
+  padding: 0 10px;
+}
+
+#image-slider .carousel-item .row {
+  margin: 0 -10px;
+}
+
+/* FOOTER  */
+footer {
+  background-color: #1c1c1c;
+  color: white;
+}
+footer .container {
+  padding-left: 130px;
+}
+.fot-prt1 {
+  width: 30%;
+}
+.fot-prt1 img {
+  height: 130px;
+}
+#txt-1 {
+  width: 100%;
+}
+.fot-icon {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  background-color: white;
+}
+.fot-prt2 {
+  width: 30%;
+}
+
+.txt-2 a {
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+}
+.fot-prt3 {
+  width: 30%;
+}
+#foot {
+  width: 30%;
+}
+.fot-end {
+  height: 80px;
+  width: 80%;
+  padding-left: 130px;
+}
+
+/************************************************ EXPLORE-PAGE  *******************************************************************************/
+.event{
+  padding-left: 120px;
+}
+.card {
+  margin-bottom: 20px;
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card-text {
+  font-size: 14px;
+  color: #666;
+}
+
+/**************************************** Team-Member **************************************/
+#team a{
+  text-decoration: none;
+  color: #1c1c1c;
+  font-size: 22px;
+  font-weight: 500;
+}
+#team a:hover{
+  color: #666;
+}
+.team-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.team-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.team-card .card-body {
+  padding: 15px;
+}
+
+.team-card h5 {
+  margin-top: 0;
+}
+
+.team-card .role {
+  font-size: 14px;
+  color: #777;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-icons a {
+  margin: 0 5px;
+  color: #333;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #007bff;
+}
+
+/* #office{
+  display: none;
+} */
+
+/* LOGIN  */
+.login{
+  height: 50px;
+  width: 350px;
+}
+

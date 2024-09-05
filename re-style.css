@@ -1,0 +1,423 @@
+/* Responsive styles */
+@media (max-width: 768px) {
+  #image-slider .carousel-item .col-sm-4 {
+    width: 50%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider {
+    padding-left: 20px;
+  }
+  #image-slider .carousel-inner img {
+    height: 320px;
+    margin-top: 20px;
+  }
+  .ma-prt {
+    margin-top: 180px;
+  }
+ 
+}
+
+@media (max-width: 576px) {
+  #image-slider .carousel-item .col-xs-6 {
+    width: 100%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider {
+    padding-left: 20px;
+  }
+  #image-slider .carousel-inner img {
+    height: 320px;
+    margin-top: 20px;
+  }
+  .ma-prt {
+    margin-top: 220px;
+    /* overflow-x: scroll; */
+  }
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  #image-slider-2 .carousel-item .col-sm-4 {
+    width: 50%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider-2 {
+    padding-left: 20px;
+  }
+  #image-slider-2 .carousel-inner img {
+    height: 200px;
+    margin-top: 20px;
+  }
+  .ma-prt {
+    margin-top: 180px;
+  }
+  .spe-1 {
+    margin-top: 320px;
+  }
+
+  /* Experience yourself */
+
+  #videos{
+    padding-left: 0px;
+  }
+  #videos div> video{
+    height: 250px;
+    width: 450px;
+  }
+  .Experience {
+    height: 125vh;
+  }
+
+  /* WHY PEOPLE */
+
+  .wpli-ngo {
+    width: 100%;
+    padding-left: 20px;
+  }
+  #descrip {
+    margin-top: 20px;
+    width: 100%;
+  }
+
+  /* STORIES  */
+
+  #image-slider-3 .carousel-item .col-sm-4 {
+    width: 50%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider-3 {
+    padding-left: 20px;
+  }
+  #image-slider-3 .carousel-inner img {
+    height: 200px;
+    margin-top: 20px;
+  }
+
+  /* FOOTER  */
+  footer {
+    margin-top: 320px;
+  }
+  footer .container {
+    padding-left: 20px;
+  }
+  .fot-prt1 {
+    width: 50%;
+  }
+  .fot-prt1 img {
+    height: 120px;
+  }
+  #txt-1 {
+    width: 100%;
+  }
+  .fot-icon {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: white;
+  }
+  .fot-prt2 {
+    /* display: none; */
+    width: 50%;
+  }
+  .txt-2 a {
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .fot-prt3 {
+    width: 100%;
+  }
+  #foot {
+    width: 100%;
+  }
+  .fot-end {
+    height: 80px;
+    width: 100%;
+    padding-left: 20px;
+  }
+  /**************************************** Team-Member **************************************/
+  #team a {
+    font-size: 18px;
+  }
+  .team-card {
+    width: 100%;
+  }
+  
+  /* UPPER-PART */
+  #form-row {
+    margin-left: 20px;
+  }
+  .mid-txt {
+    padding-left: 20px;
+  }
+  .l-txt p {
+    padding-left: 20px;
+  }
+  .l-txt p {
+    padding-left: 20px;
+  }
+  .navbar-brand img {
+    margin-left: -60px;
+  }
+  .event {
+    padding-left: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  #image-slider-2 .carousel-item .col-xs-6 {
+    width: 100%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider-2 {
+    padding-left: 20px;
+  }
+  #image-slider-2 .carousel-inner img {
+    height: 200px;
+    margin-top: 20px;
+  }
+  .ma-prt {
+    margin-top: 220px;
+  }
+
+  .spe-1 {
+    margin-top: 320px;
+  }
+
+  /* Experience yourself */
+
+  .Experience {
+    height: 105vh;
+  }
+  #videos{
+    padding-left: 0px;
+  }
+  #videos div> video{
+    height: 200px;
+    width: 400px;
+  }
+
+  /* WHY PEOPLE */
+
+  .wpli-ngo {
+    width: 100%;
+    padding-left: 20px;
+  }
+  #descrip {
+    margin-top: 20px;
+    width: 100%;
+  }
+  #image-slider-3 .carousel-item .col-sm-4 {
+    width: 50%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider-3 {
+    padding-left: 20px;
+  }
+  #image-slider-3 .carousel-inner img {
+    height: 200px;
+    margin-top: 20px;
+  }
+
+  /* STORIES  */
+
+  #image-slider-3 .carousel-item .col-sm-4 {
+    width: 50%;
+  }
+  .hl-evt {
+    padding-left: 20px;
+  }
+  #image-slider-3 {
+    padding-left: 20px;
+  }
+  #image-slider-3 .carousel-inner img {
+    height: 200px;
+    margin-top: 20px;
+  }
+
+  /* FOOTER  */
+  footer {
+    margin-top: 320px;
+  }
+  footer .container {
+    flex-wrap: wrap;
+    padding-left: 20px;
+  }
+  .fot-prt1 {
+    width: 100%;
+  }
+  .fot-prt1 img {
+    height: 120px;
+  }
+  #txt-1 {
+    width: 100%;
+  }
+  .fot-icon {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: white;
+  }
+  .fot-prt2 {
+    /* display: none; */
+    width: 20%;
+  }
+  .txt-2 a {
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .fot-prt3 {
+    width: 100%;
+  }
+  #foot {
+    width: 100%;
+  }
+  .fot-end {
+    height: 80px;
+    width: 100%;
+    padding-left: 20px;
+  }
+  /* UPPER-PART */
+  #form-row {
+    padding-left: 20px;
+  }
+  .mid-txt {
+    padding-left: 20px;
+  }
+  .l-txt p {
+    padding-left: 20px;
+  }
+  .navbar-brand img {
+    margin-left: -60px;
+  }
+  .year {
+    padding-left: 60px;
+  }
+
+  /**************************************** Team-Member **************************************/
+  #team a {
+    font-size: 15px;
+  }
+  /************************** EXPLORE-PAGE ************************/
+  .event {
+    padding-left: 30px;
+  }
+}
+
+/* extra-small screen  */
+
+@media (max-width: 320px) {
+  .spe-1 {
+    overflow-x: scroll;
+  }
+  .navbar img {
+    padding-left: 60px;
+  }
+}
+
+/****************************** full screen  **************************/
+@media (max-width: 1200px) {
+  .fot-end {
+    height: 80px;
+    width: 100%;
+    padding-left: 0px;
+  }
+  #form-row {
+    padding-left: 0px;
+  }
+  .navbar-brand img {
+    margin-left: -60px;
+  }
+}
+
+@media (min-width:769px) and (max-width:1024px) {
+  #videos{
+    padding-left: 50px;
+    text-align: center;
+  }
+  #videos div> video{
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+  }
+  .Experience{
+    height: 65vh;
+  }
+  .l-txt p {
+    color: white;
+    padding-left: 70px;
+  }
+  #form-row {
+    width: 100%;
+    margin-left: 60px;
+  }
+ 
+  .mid-txt {
+    padding-left: 80px;
+  }
+}
+@media (min-width:1025px) and (max-width:1200px) {
+  #videos{
+    text-align: center;
+    padding-left: 0px;
+  }
+  #videos div> video{
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+  }
+  .Experience{
+    height: 65vh;
+  }
+  .l-txt p {
+    color: white;
+    padding-left: 80px;
+  }
+  #form-row {
+    width: 100%;
+    margin-left: 70px;
+  }
+ 
+  .mid-txt {
+    padding-left: 100px;
+  }
+}
+@media (min-width:1201px) and (max-width:1870px) {
+  #videos{
+    text-align: center;
+    padding-left: 100px;
+  }
+  #videos div> video{
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+  }
+  .Experience{
+    height: 50vh;
+  }
+  .l-txt p {
+    color: white;
+    padding-left: 160px;
+  }
+  #form-row {
+    width: 100%;
+    margin-left: 80px;
+  }
+ 
+  .mid-txt {
+    padding-left: 170px;
+  }
+}
