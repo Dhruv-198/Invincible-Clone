@@ -204,8 +204,14 @@
   }
   #videos div> video{
     height: 200px;
-    width: 400px;
+    width: 270px;
   }
+  /* Monsoon-Adventure  */
+
+.Monsoon-ad img {
+  height: 200px;
+  width: 255px;
+}
 
   /* WHY PEOPLE */
 
